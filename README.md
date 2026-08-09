@@ -19,12 +19,23 @@ An AI-powered PDF Document Assistant that helps users upload PDF documents and a
 
 ## 🛠️ Technologies Used
 
-- Python
-- Streamlit
-- Google Gemini AI
-- LangChain
-- PyPDF
-- HTML/CSS
+- 🐍 Python
+- 🎈 Streamlit
+- 🤖 Google Gemini AI
+- 📄 PDF Processing
+- 🎨 HTML & CSS
+- 🔐 Streamlit Secrets
+- 🔗 Git & GitHub
+
+  ## 🚀 How to Run
+
+1. Clone the repository.
+2. Install the required dependencies.
+3. Add your Gemini API key to Streamlit Secrets.
+4. Run the application using Streamlit.
+
+```bash
+streamlit run app.py
 
 ## 📌 Project Description
 
