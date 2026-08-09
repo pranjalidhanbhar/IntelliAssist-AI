@@ -75,4 +75,4 @@ The project demonstrates the practical implementation of Generative AI, Large La
 
 ## 👩‍💻 Developer
 
-**Pranjali Dhanbhar**
+Pranjali Dhanbhar
