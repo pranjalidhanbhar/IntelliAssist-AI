@@ -8,7 +8,7 @@ An AI-powered PDF Document Assistant that helps users upload PDF documents and a
 
 ### 📸 Project Preview
 
-    ![IntelliAssist AI Demo](./intelliassist-demo.png)
+    <img src="./intelliassist-demo.png" alt="IntelliAssist AI Demo" width="800">
 ## ✨ Features
 
 - 📄 Upload PDF documents
