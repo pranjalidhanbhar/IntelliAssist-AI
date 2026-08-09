@@ -62,17 +62,18 @@ streamlit run app.py
 It demonstrates the practical implementation of **Generative AI, Large Language Models (LLMs), Prompt Engineering, Context-Aware Question Answering, and AI Application Development** in a **real-world project**.
 
 
-# 🎯 Key Highlights
-- 🤖 Generative AI-Powered Intelligent Assistant
-- 🧠 Context-Aware Response Generation
-- 💬 Interactive Conversational Interface
-- 🔗 LangChain Integration with Google Gemini AI
-- ⚡ Fast and User-Friendly AI Interactions
-- 🎨 Clean and Intuitive Streamlit Interface
-- 📄 Document-Aware Question Answering
-- 🔐 Secure API Key Management Using Streamlit Secrets
-- ☁️ Streamlit Cloud Deployment
-- 🛠️ Real-World Generative AI Application Development
+## 🎯 **Key Highlights**
+
+- 🤖 **Generative AI-Powered Intelligent Assistant**
+- 🧠 **Context-Aware Response Generation**
+- 💬 **Interactive Conversational Interface**
+- 🔗 **LangChain Integration with Google Gemini AI**
+- ⚡ **Fast and User-Friendly AI Interactions**
+- 🎨 **Clean and Intuitive Streamlit Interface**
+- 📄 **Document-Aware Question Answering**
+- 🔐 **Secure API Key Management Using Streamlit Secrets**
+- ☁️ **Streamlit Cloud Deployment**
+- 🛠️ **Real-World Generative AI Application Development**
 
 ## 👩‍💻 Developer
 
