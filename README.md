@@ -79,3 +79,17 @@ The project also demonstrates **secure API key management using Streamlit Secret
 ## 👩‍💻 Developer
 
 **Pranjali Dhanbhar**
+
+**Aspiring Data Analyst | Generative AI Enthusiast | Python Developer**
+
+Passionate about building data-driven and AI-powered applications using Python, Generative AI, and modern development technologies.
+
+## 🚀 Future Enhancements
+
+- 🔍 Improved document search and retrieval
+- 📚 Support for multiple document formats
+- 💾 Conversation history and session management
+- 🌐 Multilingual AI interactions
+- 📊 Advanced document analytics
+- 🎤 Voice-based interaction
+- 🔐 Enhanced authentication and security
