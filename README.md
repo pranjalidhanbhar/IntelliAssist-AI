@@ -55,18 +55,19 @@ streamlit run app.py
 
 **IntelliAssist AI** is an **AI-powered virtual assistant** designed to provide **interactive, context-aware, and user-friendly responses**.
 
-Key Highlights
-- 🤖 Generative AI-Powered Intelligent Assistant
-- 🧠 Context-Aware Response Generation
-- 💬 Interactive Conversational Interface
-- 🔗 LangChain Integration with Google Gemini AI
-- ⚡ Fast and User-Friendly AI Interactions
-- 🎨 Clean and Intuitive Streamlit Interface
-- 📄 Document-Aware Question Answering
-- 🔐 Secure API Key Management Using Streamlit Secrets
-- ☁️ Streamlit Cloud Deployment
-- 🛠️ Real-World Generative AI Application Development
+## 🎯 Key Highlights
+
+- 🤖 **Generative AI-Powered Intelligent Assistant**
+- 🧠 **Context-Aware Response Generation**
+- 💬 **Interactive Conversational Interface**
+- 🔗 **LangChain Integration with Google Gemini AI**
+- ⚡ **Fast and User-Friendly AI Interactions**
+- 🎨 **Clean and Intuitive Streamlit Interface**
+- 📄 **Document-Aware Question Answering**
+- 🔐 **Secure API Key Management Using Streamlit Secrets**
+- ☁️ **Streamlit Cloud Deployment**
+- 🛠️ **Real-World Generative AI Application Development**
 
 ## 👩‍💻 Developer
 
-Pranjali Dhanbhar
+**Pranjali Dhanbhar**
