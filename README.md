@@ -1,6 +1,6 @@
 # 🤖 IntelliAssist AI
 
-An AI-powered PDF Document Assistant that helps users upload PDF documents and ask questions based on the document content.
+An intelligent AI-powered assistant designed to provide context-aware and user-friendly interactions using modern Generative AI technologies. IntelliAssist AI integrates Google Gemini AI with a Streamlit-based interface to deliver fast, meaningful, and interactive responses. The project demonstrates the practical application of Large Language Models (LLMs), prompt engineering, document-based question answering, and AI application development.
 
 ## 🚀 Live Demo
 
