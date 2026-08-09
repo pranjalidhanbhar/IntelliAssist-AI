@@ -41,7 +41,7 @@ streamlit run app.py
 
 IntelliAssist AI is an intelligent document assistant that allows users to upload PDF files and interact with their documents using AI-powered question answering.IntelliAssist AI is an intelligent AI-powered virtual assistant designed to provide interactive, context-aware, and user-friendly responses. Built using Python, Streamlit, Google Gemini AI, and LangChain, the application combines generative AI capabilities with a clean and intuitive interface to deliver efficient and meaningful interactions. It demonstrates the practical implementation of Generative AI, Large Language Models (LLMs), prompt engineering, and AI application development in a real-world project.
 
-# 🎯 Key Highlights
+#🎯 Key Highlights
 
 - 🤖 Generative AI-powered intelligent assistant
 - 🧠 Context-aware response generation
