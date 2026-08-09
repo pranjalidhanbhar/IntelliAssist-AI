@@ -53,13 +53,13 @@ streamlit run app.py
 ```bash
 streamlit run app.py
 
-## 📌 Project Description
+📌 Project Description
 
-**IntelliAssist AI** is an **intelligent document assistant** that allows users to **upload PDF files and interact with their documents using AI-powered question answering**.
+IntelliAssist AI is an AI-powered virtual assistant designed to provide interactive, context-aware, and user-friendly responses.
 
-**IntelliAssist AI** is an **AI-powered virtual assistant** designed to provide **interactive, context-aware, and user-friendly responses**. Built using **Python, Streamlit, Google Gemini AI, and LangChain**, the application combines **Generative AI capabilities** with a **clean and intuitive interface** to deliver efficient and meaningful interactions.
+Built using Python, Streamlit, Google Gemini AI, and LangChain, the application combines Generative AI capabilities with a clean and intuitive interface to deliver efficient and meaningful interactions.
 
-It demonstrates the practical implementation of **Generative AI, Large Language Models (LLMs), Prompt Engineering, Context-Aware Question Answering, and AI Application Development** in a **real-world project**.
+The project demonstrates the practical implementation of Generative AI, Large Language Models (LLMs), Prompt Engineering, Context-Aware Question Answering, and AI Application Development in a real-world application.
 
 ## 🎯 Key Highlights
 🤖 Generative AI-Powered Intelligent Assistant
