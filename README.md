@@ -19,13 +19,15 @@ An intelligent AI-powered assistant designed to provide context-aware and user-f
 
 ## 🛠️ Technologies Used
 
-- 🐍 Python
-- 🎈 Streamlit
-- 🤖 Google Gemini AI
-- 📄 PDF Processing
-- 🎨 HTML & CSS
-- 🔐 Streamlit Secrets
-- 🔗 Git & GitHub
+- 🐍 **Python**
+- 🎈 **Streamlit**
+- 🤖 **Google Gemini AI**
+- 🧠 **Generative AI & LLM**
+- 📄 **PDF Processing**
+- 🎨 **HTML & CSS**
+- 🔐 **Streamlit Secrets**
+- ☁️ **Streamlit Cloud**
+- 🔗 **Git & GitHub**
 
 ## 🚀 How to Run
 
