@@ -8,14 +8,17 @@ An intelligent AI-powered assistant designed to provide context-aware and user-f
 
 ### 📸 Project Preview
 ![IntelliAssist AI Demo](https://raw.githubusercontent.com/pranjalidhanbhar/IntelliAssist-AI/main/intelliassist-demo.png)
-## ✨ Features
 
-- 📄 Upload PDF documents
-- 🤖 AI-powered question answering
-- 💬 Smart Q&A
-- ⚡ Fast and clear responses
-- 🔒 Document-based answers
-- 🧠 Gemini AI integration
+## ✨ Key Features
+
+- 🤖 **Generative AI-powered intelligent assistance**
+- 🧠 **Context-aware question answering**
+- 💬 **Interactive conversational interface**
+- 📄 **Document-based question answering**
+- ⚡ **Fast and clear AI-generated responses**
+- 🎨 **Clean and intuitive Streamlit interface**
+- 🔐 **Secure API key management using Streamlit Secrets**
+- ☁️ **Deployed using Streamlit Cloud**
 
 ## 🛠️ Technologies Used
 
@@ -31,29 +34,45 @@ An intelligent AI-powered assistant designed to provide context-aware and user-f
 
 ## 🚀 How to Run
 
-1. Clone the repository.
-2. Install the required dependencies.
-3. Add your Gemini API key to Streamlit Secrets.
-4. Run the application using Streamlit.
+1. **Clone the repository** to your local system.
+2. **Open the project folder** in VS Code or your preferred IDE.
+3. **Create and activate a virtual environment** for the project.
+4. **Install the required dependencies** using `requirements.txt`.
+5. **Configure your Gemini API key** securely using Streamlit Secrets.
+6. **Verify the project configuration** and required files.
+7. **Run the application** using Streamlit.
+8. **Open the local application URL** in your web browser.
+9. **Upload a document** and start interacting with IntelliAssist AI.
+10. **Ask questions and explore AI-powered responses** based on the uploaded content.
+
+### ▶️ Run Command
+
+```bash
+streamlit run app.py
 
 ```bash
 streamlit run app.py
 
 ## 📌 Project Description
 
-IntelliAssist AI is an intelligent document assistant that allows users to upload PDF files and interact with their documents using AI-powered question answering.IntelliAssist AI is an intelligent AI-powered virtual assistant designed to provide interactive, context-aware, and user-friendly responses. Built using Python, Streamlit, Google Gemini AI, and LangChain, the application combines generative AI capabilities with a clean and intuitive interface to deliver efficient and meaningful interactions. It demonstrates the practical implementation of Generative AI, Large Language Models (LLMs), prompt engineering, and AI application development in a real-world project.
+**IntelliAssist AI** is an **intelligent document assistant** that allows users to **upload PDF files and interact with their documents using AI-powered question answering**.
 
-#🎯 Key Highlights
+**IntelliAssist AI** is an **AI-powered virtual assistant** designed to provide **interactive, context-aware, and user-friendly responses**. Built using **Python, Streamlit, Google Gemini AI, and LangChain**, the application combines **Generative AI capabilities** with a **clean and intuitive interface** to deliver efficient and meaningful interactions.
 
-- 🤖 Generative AI-powered intelligent assistant
-- 🧠 Context-aware response generation
-- 💬 Interactive conversational interface
-- 🔗 LangChain integration with Google Gemini
-- ⚡ Fast and user-friendly AI interactions
-- 🎨 Clean and intuitive Streamlit interface
-- 📄 Document-aware question answering
-- 🔐 Secure API key management using Streamlit Secrets
+It demonstrates the practical implementation of **Generative AI, Large Language Models (LLMs), Prompt Engineering, Context-Aware Question Answering, and AI Application Development** in a **real-world project**.
 
+
+# 🎯 Key Highlights
+- 🤖 Generative AI-Powered Intelligent Assistant
+- 🧠 Context-Aware Response Generation
+- 💬 Interactive Conversational Interface
+- 🔗 LangChain Integration with Google Gemini AI
+- ⚡ Fast and User-Friendly AI Interactions
+- 🎨 Clean and Intuitive Streamlit Interface
+- 📄 Document-Aware Question Answering
+- 🔐 Secure API Key Management Using Streamlit Secrets
+- ☁️ Streamlit Cloud Deployment
+- 🛠️ Real-World Generative AI Application Development
 
 ## 👩‍💻 Developer
 
