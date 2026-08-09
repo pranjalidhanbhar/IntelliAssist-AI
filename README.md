@@ -50,25 +50,26 @@ An intelligent AI-powered assistant designed to provide context-aware and user-f
 ```bash
 streamlit run app.py
 
-📌 Project Description
+Project Description
 
 IntelliAssist AI is an AI-powered virtual assistant designed to provide interactive, context-aware, and user-friendly responses.
 
-Built using Python, Streamlit, Google Gemini AI, and LangChain, the application combines Generative AI capabilities with a clean and intuitive interface to deliver efficient and meaningful interactions.
+Built using Python, Streamlit, Google Gemini AI, and LangChain, the application combines Generative AI capabilities with a clean and intuitive interface.
 
-The project demonstrates the practical implementation of Generative AI, Large Language Models (LLMs), Prompt Engineering, Context-Aware Question Answering, and AI Application Development in a real-world application.
+The project demonstrates the practical implementation of Generative AI, Large Language Models (LLMs), Prompt Engineering, Context-Aware Question Answering, and AI Application Development.
 
-## 🎯 Key Highlights
-🤖 Generative AI-Powered Intelligent Assistant
-🧠 Context-Aware Response Generation
-💬 Interactive Conversational Interface
-🔗 LangChain Integration with Google Gemini AI
-⚡ Fast and User-Friendly AI Interactions
-🎨 Clean and Intuitive Streamlit Interface
-📄 Document-Aware Question Answering
-🔐 Secure API Key Management Using Streamlit Secrets
-☁️ Streamlit Cloud Deployment
-🛠️ Real-World Generative AI Application Development
+
+Key Highlights
+- 🤖 Generative AI-Powered Intelligent Assistant
+- 🧠 Context-Aware Response Generation
+- 💬 Interactive Conversational Interface
+- 🔗 LangChain Integration with Google Gemini AI
+- ⚡ Fast and User-Friendly AI Interactions
+- 🎨 Clean and Intuitive Streamlit Interface
+- 📄 Document-Aware Question Answering
+- 🔐 Secure API Key Management Using Streamlit Secrets
+- ☁️ Streamlit Cloud Deployment
+- 🛠️ Real-World Generative AI Application Development
 
 ## 👩‍💻 Developer
 
