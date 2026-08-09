@@ -50,9 +50,6 @@ An intelligent AI-powered assistant designed to provide context-aware and user-f
 ```bash
 streamlit run app.py
 
-```bash
-streamlit run app.py
-
 📌 Project Description
 
 IntelliAssist AI is an AI-powered virtual assistant designed to provide interactive, context-aware, and user-friendly responses.
